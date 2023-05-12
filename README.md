@@ -1,2 +1,2 @@
 # mvp-assets
-Research asset bundle for test purposes
+Research asset bundles for test purposes
