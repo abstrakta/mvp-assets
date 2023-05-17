@@ -6,7 +6,7 @@ This bundle consists of 5 climatological datasets extracted from the Climate Mod
 
 ## Bundle Overview
 
-The bundle consists of five datasets downloaded from the CMIP6 archive - see https://esgf-node.llnl.gov/search/cmip6.  The total CMIP6 archive size is several hundres petabytes, thus the example files represent a tiny fraction of the archive as a whole.
+The bundle was downloaded from the CMIP6 archive - see https://esgf-node.llnl.gov/search/cmip6.  The total CMIP6 archive size is **several hundred petabytes**, thus the example files represent a tiny fraction of the archive as a whole.
 
 Each file within the bundle obeys a [Directory Naming Syntax](https://eartharxiv.org/repository/view/2722/) (DRS) defined by the WCRP:
 
